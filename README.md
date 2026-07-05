@@ -1,2 +1,1 @@
-# mass-converter-cli
-CLI tool for converting mass units (kg, lbs, tons, grams)
+# Mass Converter CLI\nConvert between common mass units like kilograms (kg), pounds (lbs), metric tons (t), and grams (g).\n\nUsage: `mass-converter <value> <from-unit> <to-unit>`\nExample: `mass-converter 100 kg lbs`
